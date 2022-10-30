@@ -11,7 +11,7 @@ margin: 20px 15px;
 display: inline-block;
 line-height: 0.7;
 position: relative;
-color: #2e0409;
+color: #ad1628;
 }
 .error-container > span > span {
 display: inline-block;
@@ -30,7 +30,7 @@ animation: easyoutelastic 8s infinite;
 .error-container > span:nth-of-type(3) {
 perspective: none;
 perspective-origin: 50% 50%;
-color: #c3196b;
+color: #97225b;
 }
 .error-container > span:nth-of-type(3) > span {
 transform-origin: 100% 100% 0px;
@@ -93,7 +93,7 @@ transform: rotateX(0);
 box-sizing: border-box;
 }
 body {
-background-color: #f4f4f4;
+background-color: #e25b5b;
 margin-bottom: 50px;
 }
 html, button, input, select, textarea {
@@ -116,10 +116,10 @@ text-align: center;
 a.more-link {
 text-transform: uppercase;
 font-size: 13px;
-background-color: #bbb;
+background-color: rgb(192, 31, 31);
 padding: 10px 15px;
 border-radius: 0;
-color: rgb(44, 6, 6);
+color: rgb(54, 34, 225);
 display: inline-block;
 margin-right: 5px;
 margin-bottom: 5px;
